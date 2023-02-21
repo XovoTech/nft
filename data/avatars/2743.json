@@ -1,0 +1,28 @@
+{
+  "name": "#02743",
+  "description": "One of the evolved Freaks suffering side effects from heavy exposure to the universe's rarest radioactive crystals.",
+  "external_url": "https://falloutfreaks.io",
+  "image": "https://unstable.massless.media/sGXbhUNogWj1AwdpC2jM",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "L1 DESTROYED CITY"
+    },
+    {
+      "trait_type": "Species",
+      "value": "L1 ZOMBIE"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "L1 GOLD"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "L1 BLACK HEARTS"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "L1 GAS MASK"
+    }
+  ]
+}

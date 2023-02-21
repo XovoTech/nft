@@ -1,0 +1,40 @@
+{
+  "name": "#00264",
+  "description": "One of the evolved Freaks suffering side effects from heavy exposure to the universe's rarest radioactive crystals.",
+  "external_url": "https://falloutfreaks.io",
+  "image": "https://unstable.massless.media/iUUQ55jwjBZRTyjRU1kY",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "L1 ORANGE"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "L1 SHOCKED BLUE + RED"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "L1 SAVAGE"
+    },
+    {
+      "trait_type": "Head",
+      "value": "L1 BLACK NINJA HEADBAND"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "L1 PINK"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "L1 RED KING'S ROBE"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "L1 DUAL KATANA"
+    },
+    {
+      "trait_type": "Species",
+      "value": "L1 GORILLA"
+    }
+  ]
+}

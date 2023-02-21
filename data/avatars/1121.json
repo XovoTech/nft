@@ -1,0 +1,40 @@
+{
+  "name": "#01121",
+  "description": "One of the evolved Freaks suffering side effects from heavy exposure to the universe's rarest radioactive crystals.",
+  "external_url": "https://falloutfreaks.io",
+  "image": "https://unstable.massless.media/KC9ZKMRYGFAZb9Yk1sKK",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "L1 ORANGE"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "L1 GREEN"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "L1 RED HEARTS"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "L1 JOINT"
+    },
+    {
+      "trait_type": "Head",
+      "value": "L1 PURPLE HAT"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "L1 BLACK KING'S ROBE"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "L1 SILVER SAW GUN"
+    },
+    {
+      "trait_type": "Species",
+      "value": "L1 ZOMBIE"
+    }
+  ]
+}

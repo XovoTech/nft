@@ -1,0 +1,40 @@
+{
+  "name": "#04469",
+  "description": "One of the evolved Freaks suffering side effects from heavy exposure to the universe's rarest radioactive crystals.",
+  "external_url": "https://falloutfreaks.io",
+  "image": "https://unstable.massless.media/IedsyzMGlzHjEmeYjxMW",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "L1 MINT"
+    },
+    {
+      "trait_type": "Species",
+      "value": "L1 ZOMBIE"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "L1 PINK"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "L1 BLOODY BLINDFOLD"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "L1 LAUGHING"
+    },
+    {
+      "trait_type": "Head",
+      "value": "L1 BLACK BEANIE"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "L1 GOLD CHAIN"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "L1 SILVER & BLACK RPG"
+    }
+  ]
+}
